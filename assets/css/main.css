@@ -4149,3 +4149,20 @@ input, select, textarea {
 		}
 
 	}
+
+	#contactHere{
+		color : blue;
+		text-decoration: underline;
+	}
+
+	#tynonsPortfolio{
+		text-align: center;
+		color: #4696e5;
+		font-size: 40px;
+		
+	}
+
+	#noBorderTop{
+		border-top: none;
+		margin-top: 30px;
+	}
